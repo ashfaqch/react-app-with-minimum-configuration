@@ -2,13 +2,6 @@
 
 In this example I have demonstrated that how to Create a react app with minimum configuration required.
 
-[![dependency Status](https://david-dm.org/ashfaqch/react-app-with-minimum-configuration.svg)](https://david-dm.org/ashfaqch/react-app-with-minimum-configuration#info=dependencies)
-[![devDependency Status](https://david-dm.org/ashfaqch/react-app-with-minimum-configuration/dev-status.svg)](https://david-dm.org/ashfaqch/react-app-with-minimum-configuration#info=devDependencies)
-
-## Demo
-
-https://stackblitz.com/github/ashfaqch/react-app-with-minimum-configuration
-
 ## Steps:
 
 ## Create a new folder for the react app:
